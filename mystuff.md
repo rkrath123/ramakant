@@ -6,6 +6,18 @@ Sri Dhanvanthari Kasa Sudhakalpa
 Clevira Tablet
 Dhootapapeshwar A Flu-O-Cil Forte Tablet
 sudarshan ghanvati 
+giloy ghanavati
+patanjali swasari vati
+patanjali swasari kwath
+
+```
+
+Heart
+-----
+```
+DIVYA ARJUN KWATH
+arjunarishta
+Dabur Arjuna Tablet
 ```
 
 BP tablet
@@ -83,6 +95,8 @@ manasamitra vatakam
 sarpagandha vati
 brahma rasayan
 medha vati
+ashwagandharishta
+
 ```
 
 Dental
@@ -96,3 +110,17 @@ Injury ointment
 Jatyadi Ghrita
 ```
 
+Feet pain/Body pain
+------------------
+```
+Pinda Thailam
+vatgajankush ras
+mahayograj guggulu
+```
+
+loose motion
+------------
+```
+kutajghan vati
+jamboo syrup
+```
