@@ -108,6 +108,12 @@ Injury ointment
 --------------
 ```
 Jatyadi Ghrita
+Univa Panchavalkala Lepam
+```
+Burning
+--------
+```
+SATADHAUTA GHRITAM (LAMI TUBE) - 20GM - KOTTAKKA
 ```
 
 Feet pain/Body pain
