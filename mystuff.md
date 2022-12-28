@@ -109,6 +109,8 @@ Injury ointment
 ```
 Jatyadi Ghrita
 Univa Panchavalkala Lepam
+nimbaharidradi churnam
+
 ```
 Burning
 --------
