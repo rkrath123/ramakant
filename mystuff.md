@@ -132,3 +132,12 @@ loose motion
 kutajghan vati
 jamboo syrup
 ```
+
+catracts
+--------
+```
+Arya Vaidya Sala Kottakkal Nayanamritam Kuzhampu
+Netra Sudarshan Ark
+Mahatriphala Ghrita
+Saptamrit Lauh
+```
